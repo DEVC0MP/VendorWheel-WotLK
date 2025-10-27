@@ -52,15 +52,6 @@ Lightweight QoL addon for **World of Warcraft: Wrath of the Lich King 3.3.5a (12
 
 ---
 
-## Screenshots
-
-Put your image at **`docs/preview.png`** to display the preview above.  
-You can add more images in `docs/` and reference them, e.g.:
-
-```md
-![Scrolling with Shift](docs/shift_jump.png)
-```
-
 ## Changelog
 
 ```md
